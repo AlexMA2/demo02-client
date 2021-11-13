@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    padding: 0.5rem;
+    flex-direction: row;
+}
+
+.header > div > img {
+    width: 266px;
+    height: 193px;
+}
